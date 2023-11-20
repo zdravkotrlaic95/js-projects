@@ -11,7 +11,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 64%;
   box-sizing: border-box;
 }
 
@@ -31,12 +31,12 @@ nav {
 }
 
 .welcome {
-  font-size: 1.9rem;
-  font-weight: 500;
+  font-size: 2rem;
+  font-weight: 470;
 }
 
 .logo {
-  height: 5.25rem;
+  height: 5.5rem;
 }
 
 .login {
